@@ -1,3 +1,5 @@
+![ai-check Banner](assets/images/banner.svg)
+
 # aicheck
 
 **Catch AI-generated code issues before they catch you.**
