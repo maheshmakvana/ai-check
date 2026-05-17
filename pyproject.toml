@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "aicheck"
-version = "0.1.6"
+version = "0.1.8"
 description = "Catch AI-generated code issues before they catch you"
 readme = "README.md"
 license = "MIT"
